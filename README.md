@@ -6,3 +6,6 @@
 - C1, C2: 100nF 0805
 - R1, R2: 680 Ohm 0805
 - R3, R4: 1M Ohm 0805
+
+## Wiring diagram
+- https://github.com/Hasenpups/WLED_AudioJackAdapter/blob/main/WLED_AudioJackAdapter.pdf

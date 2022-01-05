@@ -1,5 +1,8 @@
 # WLED_AudioJackAdapter
 
+## Features
+- Connect 3.5mm audio jack to WLED controller input pin
+
 ## BOM
 - J1: Audio Jack PJ320D
 - J2: 3-pin header male

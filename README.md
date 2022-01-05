@@ -12,3 +12,7 @@
 
 ## Wiring diagram
 - https://github.com/Hasenpups/WLED_AudioJackAdapter/blob/main/WLED_AudioJackAdapter.pdf
+
+## References
+- Sound reactive WLED: https://github.com/atuline/WLED/releases
+- Wiring example: https://github.com/atuline/WLED/wiki/Analog-Audio-Input-Options

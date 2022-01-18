@@ -12,7 +12,7 @@ This work is licensed under a
 
 # WLED_AudioJackAdapter
 
-<img src="./IMG_8467.jpeg" width="50%" height="50%">
+<img src="./IMG_8467.jpeg" width="30%" height="30%">
 
 ## Features
 - Connect 3.5mm audio jack to WLED controller input pin

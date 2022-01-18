@@ -1,0 +1,8 @@
+Designator,Val,Package,MidX,MidY,Rotation,Layer
+"C1","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",142.642500,-80.645000,180.000000,top
+"C2","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",142.642500,-83.185000,180.000000,top
+"J1","AudioJack4","Jack_3.5mm_PJ320D_Horizontal",132.715000,-81.915000,0.000000,top
+"R1","680","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",142.605000,-78.105000,180.000000,top
+"R2","680","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",142.605000,-85.725000,180.000000,top
+"R3","1M","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",146.050000,-79.645000,90.000000,top
+"R4","1M","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",146.050000,-84.185000,90.000000,top

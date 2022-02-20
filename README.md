@@ -29,7 +29,7 @@ If somebody wants to support me for upcoming projects :)
 - R3, R4: 1M Ohm 0805
 
 ## Wiring diagram
-- https://github.com/Hasenpups/WLED_AudioJackAdapter/blob/main/WLED_AudioJackAdapter.pdf
+- https://github.com/Hasenpups/WLED_AudioJackAdapter_Public/blob/main/WLED_AudioJackAdapter.pdf
 
 ## References
 - Sound reactive WLED: https://github.com/atuline/WLED/releases
